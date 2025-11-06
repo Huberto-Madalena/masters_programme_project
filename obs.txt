@@ -1,0 +1,3 @@
+mDNS= multicast DNS (local serverless dns resolver
+ LLMR: link-local multicast name resolution (windows name solving)nbns is a netbios name service 
+these protocols belong to the network, but they arent relevant (transportwise) like tcp or udp 
